@@ -1,0 +1,4 @@
+interface:
+  display_name: "Barrage Me"
+  short_description: "Interrogate requirements, then build the feature"
+  default_prompt: "Use $barrage-me to turn my feature idea into resolved requirements and a tested implementation."

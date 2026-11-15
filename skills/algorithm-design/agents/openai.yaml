@@ -1,0 +1,4 @@
+interface:
+  display_name: "Algorithm Design"
+  short_description: "Design and validate standalone algorithms"
+  default_prompt: "Use $algorithm-design to design and validate a standalone algorithm project."
